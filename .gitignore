@@ -1,0 +1,7 @@
+# Ignore these files
+
+# Any file with log extension except the ones with ! mark
+*.log
+!vip.log
+node_packs/
+text.txt
